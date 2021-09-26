@@ -7,14 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>2021 EllyBot0914</copyright>
-    <lastBuildDate>Mon, 27 Sep 2021 03:58:20 +0800</lastBuildDate><atom:link href="https://ellybot0914.github.io/categories/%E6%9D%82%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Sep 2021 04:26:08 +0800</lastBuildDate><atom:link href="https://ellybot0914.github.io/categories/%E6%9D%82%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我</title>
+      <link>https://ellybot0914.github.io/posts/about-me/</link>
+      <pubDate>Mon, 27 Sep 2021 04:26:08 +0800</pubDate>
+      
+      <guid>https://ellybot0914.github.io/posts/about-me/</guid>
+      <description>姓名：艾莉
+生日：2002-09-14
+性别：女
+血型：A
+爱好：编程
+喜欢的事物：动漫、复古游戏
+我学习的第一门，也是目前唯一一门能算得上“熟练使用”的编程语言是Java。
+但时至今日，Java仍不适合桌面应用开发，因此目标是嵌入式和复古游戏开发的我转向了C++。
+我认为Python很适合用来编写小工具，所以虽然不满它对缩进的严格要求和极低的性能，还是有所学习。
+对新兴的Rust语言，我很有兴趣，我对它的评价是：
+“没有一门编程语言能像Rust那样全能”
+由于生态原因，它目前还不是我的主力语言，但在可以预见的将来，我会转向Rust的！</description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>https://ellybot0914.github.io/posts/hello-world/</link>
       <pubDate>Mon, 27 Sep 2021 03:58:20 +0800</pubDate>
       
       <guid>https://ellybot0914.github.io/posts/hello-world/</guid>
-      <description>Hello World 一直想搭建一个个人博客网站，用于展示自己的随笔杂记。
+      <description>一直想搭建一个个人博客网站，用于展示自己的随笔杂记。
 考虑到维护成本，我选择了GitHub Page + 静态博客框架。
 尝试了Jekyll和Hexo后，最终我选择了Hugo。
 理由如下：

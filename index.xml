@@ -6,9 +6,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>2021 EllyBot0914</copyright>
-    <lastBuildDate>Mon, 27 Sep 2021 03:58:20 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 27 Sep 2021 04:26:08 +0800</lastBuildDate>
     
         <atom:link href="https://ellybot0914.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>关于我</title>
+        <link>https://ellybot0914.github.io/posts/about-me/</link>
+        <pubDate>Mon, 27 Sep 2021 04:26:08 +0800</pubDate>
+        
+        <guid>https://ellybot0914.github.io/posts/about-me/</guid>
+        <description>EllyBot0914的博客 https://ellybot0914.github.io/posts/about-me/ -&lt;p&gt;姓名：艾莉&lt;br&gt;
+生日：2002-09-14&lt;br&gt;
+性别：女&lt;br&gt;
+血型：A&lt;br&gt;
+爱好：编程&lt;br&gt;
+喜欢的事物：动漫、复古游戏&lt;/p&gt;
+&lt;p&gt;我学习的第一门，也是目前唯一一门能算得上“熟练使用”的编程语言是&lt;a href=&#34;https://en.wikipedia.org/wiki/Java_(programming_language)&#34;&gt;Java&lt;/a&gt;。&lt;br&gt;
+但时至今日，&lt;a href=&#34;https://en.wikipedia.org/wiki/Java_(programming_language)&#34;&gt;Java&lt;/a&gt;仍不适合桌面应用开发，因此目标是嵌入式和复古游戏开发的我转向了&lt;a href=&#34;https://en.wikipedia.org/wiki/C%2B%2B&#34;&gt;C++&lt;/a&gt;。&lt;br&gt;
+我认为&lt;a href=&#34;https://en.wikipedia.org/wiki/Python_(programming_language)&#34;&gt;Python&lt;/a&gt;很适合用来编写小工具，所以虽然不满它对缩进的严格要求和极低的性能，还是有所学习。&lt;br&gt;
+对新兴的&lt;a href=&#34;https://en.wikipedia.org/wiki/Rust_(programming_language)&#34;&gt;Rust&lt;/a&gt;语言，我很有兴趣，我对它的评价是：&lt;br&gt;
+“没有一门编程语言能像&lt;a href=&#34;https://en.wikipedia.org/wiki/Rust_(programming_language)&#34;&gt;Rust&lt;/a&gt;那样全能”&lt;br&gt;
+由于生态原因，它目前还不是我的主力语言，但在可以预见的将来，我会转向&lt;a href=&#34;https://en.wikipedia.org/wiki/Rust_(programming_language)&#34;&gt;Rust&lt;/a&gt;的！&lt;/p&gt;
+- https://ellybot0914.github.io/posts/about-me/ - 2021 EllyBot0914</description>
+        </item>
     
     
     
@@ -18,12 +41,11 @@
         <pubDate>Mon, 27 Sep 2021 03:58:20 +0800</pubDate>
         
         <guid>https://ellybot0914.github.io/posts/hello-world/</guid>
-        <description>EllyBot0914的博客 https://ellybot0914.github.io/posts/hello-world/ -&lt;h3 id=&#34;hello-world&#34;&gt;Hello World&lt;/h3&gt;
-&lt;p&gt;一直想搭建一个个人博客网站，用于展示自己的随笔杂记。&lt;/p&gt;
-&lt;p&gt;考虑到维护成本，我选择了&lt;a href=&#34;https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages&#34;&gt;GitHub Page&lt;/a&gt; + 静态博客框架。&lt;/p&gt;
-&lt;p&gt;尝试了&lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;和&lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;后，最终我选择了&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;理由如下：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;和&lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;的配置都十分麻烦，而&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;从安装到定制都几乎是傻瓜式，完全没遇到什么坑。&lt;/p&gt;
+        <description>EllyBot0914的博客 https://ellybot0914.github.io/posts/hello-world/ -&lt;p&gt;一直想搭建一个个人博客网站，用于展示自己的随笔杂记。&lt;br&gt;
+考虑到维护成本，我选择了&lt;a href=&#34;https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages&#34;&gt;GitHub Page&lt;/a&gt; + 静态博客框架。&lt;br&gt;
+尝试了&lt;a href=&#34;https://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt;和&lt;a href=&#34;https://hexo.io&#34;&gt;Hexo&lt;/a&gt;后，最终我选择了&lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;。&lt;br&gt;
+理由如下：&lt;br&gt;
+&lt;a href=&#34;https://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt;和&lt;a href=&#34;https://hexo.io&#34;&gt;Hexo&lt;/a&gt;的配置都十分麻烦，而&lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;从安装到定制都几乎是傻瓜式，完全没遇到什么坑。&lt;/p&gt;
 - https://ellybot0914.github.io/posts/hello-world/ - 2021 EllyBot0914</description>
         </item>
     
