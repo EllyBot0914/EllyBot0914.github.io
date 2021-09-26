@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>EllyBot0914的博客</title>
+    <title>艾莉的博客</title>
     <link>https://ellybot0914.github.io/</link>
-    <description>Recent content on EllyBot0914的博客</description>
+    <description>Recent content on 艾莉的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>2021 EllyBot0914</copyright>
@@ -18,7 +18,7 @@
         <pubDate>Mon, 27 Sep 2021 04:26:08 +0800</pubDate>
         
         <guid>https://ellybot0914.github.io/posts/about-me/</guid>
-        <description>EllyBot0914的博客 https://ellybot0914.github.io/posts/about-me/ -&lt;p&gt;姓名：艾莉&lt;br&gt;
+        <description>艾莉的博客 https://ellybot0914.github.io/posts/about-me/ -&lt;p&gt;姓名：艾莉&lt;br&gt;
 生日：2002-09-14&lt;br&gt;
 性别：女&lt;br&gt;
 血型：A&lt;br&gt;
@@ -41,7 +41,7 @@
         <pubDate>Mon, 27 Sep 2021 03:58:20 +0800</pubDate>
         
         <guid>https://ellybot0914.github.io/posts/hello-world/</guid>
-        <description>EllyBot0914的博客 https://ellybot0914.github.io/posts/hello-world/ -&lt;p&gt;一直想搭建一个个人博客网站，用于展示自己的随笔杂记。&lt;br&gt;
+        <description>艾莉的博客 https://ellybot0914.github.io/posts/hello-world/ -&lt;p&gt;一直想搭建一个个人博客网站，用于展示自己的随笔杂记。&lt;br&gt;
 考虑到维护成本，我选择了&lt;a href=&#34;https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages&#34;&gt;GitHub Page&lt;/a&gt; + 静态博客框架。&lt;br&gt;
 尝试了&lt;a href=&#34;https://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt;和&lt;a href=&#34;https://hexo.io&#34;&gt;Hexo&lt;/a&gt;后，最终我选择了&lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;。&lt;br&gt;
 理由如下：&lt;br&gt;
